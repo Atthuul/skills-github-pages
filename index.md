@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Hey guys: Welcome to my blog
 ---
 
